@@ -60,3 +60,9 @@ st.table(stats)
 # 데이터 표시
 st.subheader("원본 데이터")
 st.dataframe(data)
+
+
+
+'''
+실행 : streamlit run stock_dashboard.py
+'''
