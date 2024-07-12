@@ -4,10 +4,6 @@ import pandas as pd
 import plotly.graph_objects as go
 from datetime import date, timedelta
 
-"""
-실행 : streamlit run stock_dashboard.py
-"""
-
 # 페이지 설정
 st.set_page_config(page_title="주식 가격 대시보드", layout="wide")
 
